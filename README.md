@@ -1,5 +1,3 @@
-Sure! Below is a sample `README.md` file for your project:
-
 ```markdown
 # Voice Assistant Project
 
