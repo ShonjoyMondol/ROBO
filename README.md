@@ -1,4 +1,3 @@
-```markdown
 # Voice Assistant Project
 
 This project is a voice-activated assistant named Robo, capable of responding to various commands such as providing the current time and date, information retrieval, and answering predefined questions. The assistant uses speech recognition and text-to-speech technologies to interact with the user.
